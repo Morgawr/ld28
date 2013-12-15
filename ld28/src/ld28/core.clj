@@ -90,7 +90,7 @@
   (read-line)
   (println "Specify the angle of direction you want to give to the throw (in radians):")
   (read-line)
-  (println "Specify the height of the throw (be sure to calculate the slope covariance):")
+  (println "Specify the height of the throw in centimeters (be sure to calculate the slope covariance):")
   (read-line)
   (println "Calculating...")
   (Thread/sleep 1000)
